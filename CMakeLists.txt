@@ -54,6 +54,7 @@ add_library(vermilion
 set(RUN_DIR ${PROJECT_SOURCE_DIR}/bin)
 
 set(EXAMPLES
+        00-cube
   01-keypress
   01-triangles
   03-drawcommands
